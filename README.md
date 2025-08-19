@@ -1,2 +1,4 @@
 # exercises
-A repo that contains all the exercises that I do through my learning journey
+Hello!
+
+Welcome to my repo that contains all the projects that I do through my learning journey.
